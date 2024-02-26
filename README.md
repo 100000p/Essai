@@ -108,7 +108,7 @@
   </a>
   </div>
 <h1 id="animate" >Bienvenu dans ma page html</h1>
-<p>Salut tout le monde, je suis william , un developpeur web junior et formateur en microsoft office et  d'angalais</p>
+<p>Salut tout le monde ❗ </p>
 <p>mes contacts sont disponibles dans le menu</p>
 <button onclick="change();">contact</button>
 <p id="para" ></p>
