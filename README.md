@@ -102,10 +102,6 @@
   <a href="#Accueil">Accueil</a>
   <a href="#about">À propos</a>
   <a href="#" >Blog</a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <!-- Icône pour la version mobile -->
-    &#9776;
-  </a>
   </div>
 <h1 id="animate" >Bienvenu dans ma page html</h1>
 <p>Salut tout le monde ❗ </p>
